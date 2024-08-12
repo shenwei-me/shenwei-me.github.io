@@ -1,0 +1,10 @@
+.directory
+.hugo_build.lock
+
+
+themes/
+public/
+
+
+run.sh
+shenwei.me.tar.gz

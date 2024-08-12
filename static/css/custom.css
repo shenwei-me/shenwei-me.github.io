@@ -1,0 +1,15 @@
+/* Add custom CSS here. */
+
+.intro {
+  font-family: "Roboto Slab", serif;
+  font-weight: 300;
+  font-size: 25px;
+  color: rgb(82 82 91);
+}
+
+.description {
+  font-family: "Roboto", sans-serif;
+  font-weight: 200;
+  color: rgb(161 161 170);
+  font-size: 23px;
+}

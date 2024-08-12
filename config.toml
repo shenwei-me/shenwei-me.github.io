@@ -1,0 +1,54 @@
+baseurl = "http://shenwei.me/"
+
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+
+enableRobotsTXT = true
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Wei Shen"
+title = "Wei Shen"
+
+googleAnalytics = "UA-28948626-7"
+
+theme = "hugo-goa"
+
+[params]
+    author = "Wei Shen 沈伟"
+    intro = "Associate Professor in Bioinformatics"
+    description = "[Institute for Viral Hepatitis](http://infect-hepatol-cqmu.sahcqmu.com/), [The Second Affiliated Hospital](http://www.sahcqmu.com/), [Chongqing Medical University](https://english.cqmu.edu.cn/), China"
+    authorimage = "portrait.jpg"
+    # email = "shenwei356@gmail.com"
+    dateformat = "Jan 2, 2006"
+
+[params.meta]
+    description = "Wei Shen's Homepage"
+    keywords = "shenwei356,Wei Shen,Bioinformatics,沈伟,生物信息,生信"
+
+[params.social]
+    github = "shenwei356"
+    twitter = "shenwei356"
+    googlescholar = "wHF3Lm8AAAAJ"
+    # orcid = "0000-0002-8099-8258"
+    email = "shenwei356@gmail.com"
+    
+[params.extra]
+    copyright = ""
+    poweredby = false
+    highlightjs = false
+    socialmarkup = false
+    toc = false
+    displayrssicon = false
+
+[menu]
+[[menu.main]]
+   identifier = "Learn more"
+   name = "Learn more"
+   weight = 100
+   url = "/about/"
+   pre = ""
