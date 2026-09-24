@@ -126,4 +126,4 @@ Utilities
 
 ### More Links
 
-- [Twitter](https://twitter.com/shenwei356) | [BlueSky](https://shenwei356.bsky.social) | [Biostars](https://www.biostars.org/u/4664/)
+- [BlueSky](https://shenwei356.bsky.social) | [Biostars](https://www.biostars.org/u/4664/)

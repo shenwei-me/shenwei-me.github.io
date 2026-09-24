@@ -32,7 +32,6 @@ theme = "hugo-goa"
 
 [params.social]
     github = "shenwei356"
-    twitter = "shenwei356"
     googlescholar = "wHF3Lm8AAAAJ"
     # orcid = "0000-0002-8099-8258"
     email = "shenwei356@gmail.com"
